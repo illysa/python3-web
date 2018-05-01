@@ -1,2 +1,2 @@
-# python3-webapp
-Personal blog system and web app
+# python3-web
+Personal blog system
