@@ -18,7 +18,7 @@ Local deployment
     source blogproject_env/bin/activate
 
 
-    Install package:
+    Install packages:
 
     pip install -r requirements.txt
 
